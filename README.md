@@ -1,5 +1,7 @@
 # Hi, I'm Kassim Ali Mohamed 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassim-mohamed-305a17101/)
+
 ### Aspiring SOC Analyst | Software Developer | Cybersecurity & Cloud
 
 I'm a software developer transitioning into cybersecurity, with a focus on **Security Operations (SOC), threat detection, and incident response**.
