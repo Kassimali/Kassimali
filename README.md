@@ -1,4 +1,4 @@
-# Hi, I'm Kassim Ali Mohamed 👋
+# Hi, I'm Kassim Ali Mohamed 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassim-mohamed-305a17101/)
 
